@@ -1,0 +1,8 @@
+Python is one of the most popular programming languages for data analysis and artificial intelligence. 
+Many data scientists use Python because it is simple, powerful, and has great libraries for machine learning.
+
+In the world of AI, Python is everywhere — from small scripts to big data projects. 
+Machine learning models rely heavily on data, and Python provides tools to clean, process, and analyze it efficiently.
+
+Big companies like Google and Microsoft use Python for AI and machine learning. 
+They deal with huge amounts of data every day, and Python helps automate those big tasks quickly.
